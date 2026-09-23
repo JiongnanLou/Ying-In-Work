@@ -1,0 +1,22 @@
+{
+  "version": "1.3.1",
+  "platform": "windows-x64",
+  "files": {
+    "product/native/UVCCamera.dll": {
+      "size": 487936,
+      "sha256": "2ceebcc7796aeb9577333fa13be38f18a70750ac8084d0d0b637835adde08945"
+    },
+    "product/native/UVCCameraTest.exe": {
+      "size": 133632,
+      "sha256": "6816966725bbab27f168f039e656dfe1b3b4e46210aa304ecaee2202a80b609f"
+    },
+    "product/native/link_camera_bridge.exe": {
+      "size": 38912,
+      "sha256": "7dc9b308624cf4f5e07b152371e6fe7027187684e6936759c21af068150a50c8"
+    },
+    "product/native/ffmpeg.exe": {
+      "size": 87638016,
+      "sha256": "2ce797a0f88d7f067180338fb227f7b1928ea727bd9a4d7a1d022f7c52af71a3"
+    }
+  }
+}
