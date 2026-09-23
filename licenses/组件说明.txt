@@ -1,0 +1,17 @@
+Third-party components
+flask 3.1.3
+waitress 3.0.2
+pywebview 6.2.1
+pystray 0.19.5
+opencv-python 4.11.0.86
+cv2-enumerate-cameras 1.3.3
+Pillow 12.3.0
+numpy 2.5.3
+pythonnet 3.1.0
+clr_loader 0.3.1
+bottle 0.13.4
+PyInstaller 6.22.3
+
+Insta360 Link SDK: binaries supplied by the user in Link-SDK-xty.zip. Original SDK terms apply. No additional distribution license is asserted here.
+Team-supplied modules: EyeLei, JiuZuo, MiZiCao, ShiTouJianDao.
+OpenCV cascade model includes its license text in the XML.

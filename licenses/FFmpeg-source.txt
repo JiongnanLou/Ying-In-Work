@@ -1,0 +1,6 @@
+FFmpeg 7.1 essentials build by Gyan (GPLv3)
+Invoked as a separate process for DirectShow camera capture.
+Binary redistributed without modification from installed imageio-ffmpeg runtime.
+Project source: https://ffmpeg.org/releases/ffmpeg-7.1.tar.xz
+Build project and dependency sources: https://www.gyan.dev/ffmpeg/builds/
+Build scripts: https://github.com/GyanD/codexffmpeg

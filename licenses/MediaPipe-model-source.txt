@@ -1,0 +1,3 @@
+MediaPipe Gesture Recognizer float16 version 1
+https://storage.googleapis.com/mediapipe-models/gesture_recognizer/gesture_recognizer/float16/1/gesture_recognizer.task
+https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer

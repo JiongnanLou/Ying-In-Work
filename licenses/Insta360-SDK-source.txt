@@ -1,0 +1,4 @@
+Official SDK and console helper:
+https://github.com/Insta360Develop/Link-SDK
+Documentation:
+https://github.com/Insta360Develop/Insta360-Developer_Docs/blob/main/docs/en/sdk/link/uvc/guide.md
