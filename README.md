@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="product/frontend/assets/ying.png" width="160" alt="萤 In Work" />
-</p>
-
 # 萤 In Work
 
 **你的工作情绪搭子。** 面向 Windows 的桌面陪伴软件，将摄像头预览、状态观察、互动放松、专注计时和桌面悬浮窗整合在一个应用中。
@@ -166,7 +162,6 @@ Copy-Item build/native/Release/UVCCamera.dll product/native/
 
 **语音指令无法启动**：检查 Windows 中文语音识别组件和麦克风配置；实际识别效果取决于系统与环境。
 
-**上传 GitHub 时文件过大**：源码提交到 Code；EXE、运行组件 ZIP 上传到 Releases。详细步骤见 [GitHub 上传指南](docs/GITHUB_UPLOAD.md)。
 
 ## 项目与组件许可
 
